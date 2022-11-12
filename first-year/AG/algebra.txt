@@ -1,0 +1,3 @@
+O altă metodă de a rezolva un sistem de ecuații liniare este metoda lui Gauss, care se mai numește și metoda eliminării succesive.
+
+Această metodă constă în eliminarea a câte o necunoscută din ecuațiile sistemului, astfel încât sistemul să aibă o formă triunghiulară.
