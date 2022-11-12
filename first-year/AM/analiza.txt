@@ -1,0 +1,1 @@
+Seriile Fourier sunt o unealtă matematică folosită pentru a analiza funcțiile periodice descompunându-le într-o sumă ponderată de funcții sinusoidale componente care sunt uneori denumite armonice Fourier normale, sau pe scurt armonice. Printre generalizări se numără seriile Fourier generalizate.
